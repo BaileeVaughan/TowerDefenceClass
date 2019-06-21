@@ -1,4 +1,6 @@
-﻿using System.Collections;
+﻿//This script was written by the Jacob gang
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
